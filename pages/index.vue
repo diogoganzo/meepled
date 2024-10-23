@@ -11,7 +11,7 @@
         </VImg>
       </div>
     </VCol>
-    <div class="text-center w-50 text-white mx-auto position-relative" style="margin-top: -101px; position: relative; z-index: 3;">
+    <div class="text-center w-50 text-white mx-auto position-relative" style="margin-top: -100px; position: relative; z-index: 3;">
       <img src="/logo-with-name.png" width="150px" class="mx-auto align-center text-center justify-center">
     </div>
     <VCol cols="12" md="12" lg="12" sm="12">
