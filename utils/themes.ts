@@ -24,7 +24,8 @@ export const dark: ThemeDefinition = {
   dark: true,
   colors: {
     background: '#14181c',
-    surface: twColors.slate[900],
+    text: '#9ab',
+    surface: '#14181c',
     primary: twColors.indigo[500],
     secondary: twColors.purple[500],
     error: twColors.red[500],

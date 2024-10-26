@@ -15,6 +15,7 @@ export default defineNuxtConfig({
   css: ["@/assets/main.scss"],
 
   devtools: { enabled: true },
+  components: true,
 
   // enable takeover mode
   typescript: { shim: false },
